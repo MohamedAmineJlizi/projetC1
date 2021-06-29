@@ -1,3 +1,3 @@
 FROM    scratch
 COPY    app     app
-CMD     ["./app"]~
+CMD     ["./app"]
